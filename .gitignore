@@ -1,0 +1,10 @@
+__pycache__/
+*.json
+.env
+uploads/*
+!uploads/.gitkeep
+push-error.txt
+remote.txt
+error_log.txt
+err.txt
+.idea/
